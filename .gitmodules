@@ -22,3 +22,6 @@
 [submodule "imen358-quality-control"]
 	path = imen358-quality-control
 	url = https://github.com/jseop-lim/imen358-quality-control
+[submodule "cose372-database-systems"]
+	path = cose372-database-systems
+	url = https://github.com/jseop-lim/cose372-database-systems
