@@ -7,3 +7,9 @@
 [submodule "cose362-machine-learning-em"]
 	path = cose362-machine-learning-em
 	url = https://github.com/jseop-lim/em
+[submodule "cose362-machine-learning-dnn"]
+	path = cose362-machine-learning-dnn
+	url = https://github.com/jseop-lim/dnn
+[submodule "cose474-deep-learning"]
+	path = cose474-deep-learning
+	url = https://github.com/jseop-lim/cose474-deep-learning
