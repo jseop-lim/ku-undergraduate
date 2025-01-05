@@ -1,0 +1,6 @@
+[submodule "cose371-databases-project"]
+	path = cose371-databases-project
+	url = https://github.com/jseop-lim/used-bookstore
+[submodule "cose341-operating-systems-project"]
+	path = cose341-operating-systems-project
+	url = https://github.com/jseop-lim/cpu-scheduling-simulator-python
