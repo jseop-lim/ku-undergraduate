@@ -1,0 +1,6 @@
+[tasks.pull]
+# run = "git submodule update --init --recursive --remote"
+run = "git submodule foreach git pull origin"
+
+[tasks.ci]
+run = "gh workflow run update_submodules.yml"
