@@ -4,3 +4,6 @@
 [submodule "cose341-operating-systems-project"]
 	path = cose341-operating-systems-project
 	url = https://github.com/jseop-lim/cpu-scheduling-simulator-python
+[submodule "cose362-machine-learning-em"]
+	path = cose362-machine-learning-em
+	url = https://github.com/jseop-lim/em
