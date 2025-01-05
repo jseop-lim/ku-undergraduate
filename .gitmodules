@@ -16,3 +16,6 @@
 [submodule "cose222-computer-architecture-project"]
 	path = cose222-computer-architecture-project
 	url = https://github.com/jseop-lim/cose222-computer-architecture-project
+[submodule "cose212-programming-language"]
+	path = cose212-programming-language
+	url = https://github.com/jseop-lim/cose212-programming-language
