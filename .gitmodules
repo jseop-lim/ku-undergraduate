@@ -19,3 +19,6 @@
 [submodule "cose212-programming-language"]
 	path = cose212-programming-language
 	url = https://github.com/jseop-lim/cose212-programming-language
+[submodule "imen358-quality-control"]
+	path = imen358-quality-control
+	url = https://github.com/jseop-lim/imen358-quality-control
