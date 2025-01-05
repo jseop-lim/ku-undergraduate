@@ -13,3 +13,6 @@
 [submodule "cose474-deep-learning"]
 	path = cose474-deep-learning
 	url = https://github.com/jseop-lim/cose474-deep-learning
+[submodule "cose222-computer-architecture-project"]
+	path = cose222-computer-architecture-project
+	url = https://github.com/jseop-lim/cose222-computer-architecture-project
