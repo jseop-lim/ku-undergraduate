@@ -23,6 +23,10 @@ jobs:
       - name: Update submodules to latest commits
         run: |
           git submodule update --remote --recursive
-          git add .
-          git commit -m "feat: Update submodules to latest commits"
-          git push origin main
+          if [ -n "$(git status --porcelain)" ]; then
+            git add .
+            git commit -m "feat: Update submodules to latest commits"
+            git push origin main
+          else
+            echo "No changes to commit"
+          fi
