@@ -25,3 +25,6 @@
 [submodule "cose372-database-systems"]
 	path = cose372-database-systems
 	url = https://github.com/jseop-lim/cose372-database-systems
+[submodule "cose419-software-verification"]
+	path = cose419-software-verification
+	url = https://github.com/jseop-lim/cose419-software-verification
