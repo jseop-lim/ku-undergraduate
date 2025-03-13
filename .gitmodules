@@ -28,3 +28,6 @@
 [submodule "cose419-software-verification"]
 	path = cose419-software-verification
 	url = https://github.com/jseop-lim/cose419-software-verification
+[submodule "cose312-compiler"]
+	path = cose312-compiler
+	url = https://github.com/jseop-lim/cose312-compiler
